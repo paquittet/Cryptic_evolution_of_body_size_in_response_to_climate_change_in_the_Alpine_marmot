@@ -9,3 +9,4 @@ Body size shrinking, alongside geographical shifts in better suited areas and ad
 - FUNCTIONS.R: script containing all the functions used for data description, GAM modelling, computing genetic parameters from animal models and for vizualization. 
 - RMD.DATA_DESCRIPTION.html: an interactive Rmarkdown file containing general description of the dataset, pedigree analysis, exploration of identifiability of parameters and a test for observer bias in the measure of body mass and body size.
 - RMD.ANIMAL_MODEL.html: an interactive Rmarkdown file containing analysis for the animal models presented in the memoire.
+- MEMOIRE_QUITTET_MODE.pdf: the master thesis
